@@ -44,14 +44,14 @@
                     </div>
                     <div class="d-flex justify-content-center align-items-center">
                         <div>
-                            <a href="" target="_blank" class="mx-2">
+                            <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank" class="mx-2">
                                 <div class="btn btn-lg btn-brand">Register</div>
                             </a>
                             {{--                    <a href="https://app.akadadance.com/customer/login?schoolId=AK235599J" target="_blank" class="mx-2">--}}
                             {{--                        <div class="btn btn-lg btn-outline-primary">Account Login</div>--}}
                             {{--                    </a>--}}
-                            <a href="" target="_blank" class="mx-2">
-                                <div class="btn btn-lg btn-outline-secondary">Dress Code</div>
+                            <a href="/images/resource-studio-info-kit.pdf" target="_blank" class="mx-2">
+                                <div class="btn btn-lg btn-outline-secondary">Studio Info Kit</div>
                             </a>
                         </div>
                     </div>
