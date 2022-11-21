@@ -1,0 +1,9 @@
+.btn-brand {
+    background: RGBA(83, 197, 210, 1);
+    color: white;
+}
+
+.btn-brand:hover {
+    background: RGBA(83, 197, 210, 0.7);
+    color: white;
+}
