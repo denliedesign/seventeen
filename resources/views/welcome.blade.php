@@ -21,7 +21,7 @@
             <div class="col-sm d-flex align-items-center">
                 <div>
                     <div class="d-flex justify-content-center align-items-center">
-                        <img src="/images/logo-black.png" alt="studio seventeen logo" class="img-fluid" style="width: 300px; height: auto;">
+                        <img src="/images/logo-black.PNG" alt="studio seventeen logo" class="img-fluid" style="width: 300px; height: auto;">
                     </div>
                     <div class="d-flex justify-content-center align-items-center text-center">
                         <div>
@@ -58,7 +58,7 @@
                 </div>
             </div>
             <div class="col-sm d-flex justify-content-center my-3">
-                <img src="/images/under-construction.jpg" alt="young ballerina" class="img-fluid rounded shadow" style="width: 90%; height: auto;">
+                <img src="/images/under-construction.JPG" alt="young ballerina" class="img-fluid rounded shadow" style="width: 90%; height: auto;">
             </div>
         </div>
     </div>
