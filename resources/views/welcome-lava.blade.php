@@ -128,7 +128,7 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
                 </h3>
                 <div>
-                    <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
+                    <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
@@ -312,6 +312,9 @@
         <div>
             <img src="/images/parents-love-s17.png" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
         </div>
+        <div>
+            <img src="/images/parents-love-s17.png" alt="" class="img-fluid d-block d-lg-none">
+        </div>
     </div>
 
     <div class="bg-red text-white py-5" style="position: relative;">
@@ -344,7 +347,7 @@
 
     <div class="bg-red-solid py-5 d-none d-lg-block" style="position: relative; height: 1080px;">
         <div class="container">
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm d-flex align-items-center justify-content-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">classes</div>
                 <div class="col-sm" style="position: relative;">
 {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
