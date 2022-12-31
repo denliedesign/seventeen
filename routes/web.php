@@ -1,6 +1,9 @@
 <?php
 
+use App\Http\Controllers\ArticleController;
+use App\Http\Controllers\EventController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\PromoController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,11 +18,31 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome-lava');
+});
+Route::get('aboutus', function () {
+    return view('aboutus');
+});
+Route::get('schedule', function () {
+    return view('schedule');
+});
+Route::get('recital', function () {
+    return view('recital');
 });
 
+//Route::get('/calendar', 'App\Http\Controllers\EventController@index');
+//Route::post('/calendar', 'App\Http\Controllers\EventController@store');
+
+Route::resource('events', EventController::class);
+Route::patch('/events/order', 'EventController@updateOrder');
+
+Route::resource('articles', ArticleController::class);
+Route::resource('promos', PromoController::class);
+
+
+
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return view('welcome-lava');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
