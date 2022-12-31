@@ -167,7 +167,7 @@
         </div>
         <div class="offcanvas-body" style="font-size: 22px;">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/logo-mtjgd.png" alt="mtjgd logo" style="height: 180px; width: auto;">
+                <img src="/images/logo-mtjgd.png" alt="mtjgd logo" style="height: 180px; width: auto;">
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
@@ -181,7 +181,7 @@
         </div>
         <div class="offcanvas-body" style="font-size: 22px;">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/logo-ypad.png" alt="ypad logo" style="height: 180px; width: auto;">
+                <img src="/images/logo-ypad.png" alt="ypad logo" style="height: 180px; width: auto;">
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
@@ -195,7 +195,7 @@
         </div>
         <div class="offcanvas-body" style="font-size: 22px;">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/logo-safer-studio.png" alt="safer studio logo" style="filter: invert(100); height: 180px; width: auto;">
+                <img src="/images/logo-safer-studio.png" alt="safer studio logo" style="filter: invert(100); height: 180px; width: auto;">
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
@@ -851,7 +851,7 @@
     <section id="guarantee">
         <div class="bg-red text-white py-5">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/gauranteed-logo-crop.png" alt="" class="img-fluid">
+                <img src="/images/gauranteed-logo-crop.png" alt="" class="img-fluid">
             </div>
             <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>
             <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>
