@@ -12,7 +12,7 @@
                 <a href="/schedule"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </h2>
         </div>
-        <img src="/images/welcome-fold-crop.JPG" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
+        <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
     </div>
 
     <div class="d-block d-lg-none">
