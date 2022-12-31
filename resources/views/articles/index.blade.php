@@ -4,7 +4,7 @@
 @section('content')
 
     <x-banner/>
-    <x-heading page="Newsletter"/>
+    <x-heading page="News"/>
 
     <div class="pb-5">
         @can('update', \App\Article::class)

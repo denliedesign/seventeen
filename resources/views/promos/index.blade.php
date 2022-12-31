@@ -3,7 +3,7 @@
 @section('content')
 
     <x-banner/>
-    <x-heading page="Promotions"/>
+    <x-heading page="Promos"/>
 
     <div class="bg-white pb-5">
         @can('update', \App\Promo::class)
