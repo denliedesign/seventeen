@@ -27,7 +27,7 @@
             </div>
             </p>
         </div>
-        <img src="/images-lava/dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0;">
+        <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0;">
     </div>
 
     {{--<div class="bg-red py-5">--}}
@@ -418,7 +418,7 @@
     <div id="mobile-classes-section" class="bg-red-solid py-5 d-block d-lg-none" style="position: relative; height: 100%;">
         <div class="container">
             <div class="col-sm font-staat text-white text-center" style="font-size: 100px;">classes</div>
-            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-4">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm" style="position: relative;">
                     {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
@@ -438,7 +438,7 @@
 
                 {{--                <div class="col-sm" style="position: relative;"></div>--}}
             </div>
-            <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+            <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 {{--                <div class="col-sm" style="position: relative;"></div>--}}
                 <div class="col-sm" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
@@ -603,7 +603,7 @@
         </div>
         <div>
             <img src="/images/free-trial.png" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
-            <img src="/images/free-trial.png" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">
+{{--            <img src="/images/free-trial.png" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">--}}
         </div>
     </div>
 
