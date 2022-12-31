@@ -122,8 +122,8 @@
     <div style="position: relative; height: 850px;" class="d-block d-lg-none">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keeping your dancer</span><br>
-                    <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;"><span style="color: transparent;">happy</span></a>,
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
+                    <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;"><span>happy</span></a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
                 </h3>
@@ -312,9 +312,6 @@
         <div>
             <img src="/images/parents-love-s17.png" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
         </div>
-        <div>
-            <img src="/images/parents-love-s17.png" alt="" class="img-fluid d-block d-lg-none">
-        </div>
     </div>
 
     <div class="bg-red text-white py-5" style="position: relative;">
@@ -368,7 +365,7 @@
 
 {{--                <div class="col-sm" style="position: relative;"></div>--}}
             </div>
-            <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+            <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
 {{--                <div class="col-sm" style="position: relative;"></div>--}}
                 <div class="col-sm" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
