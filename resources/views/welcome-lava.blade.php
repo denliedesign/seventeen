@@ -346,7 +346,7 @@
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm d-flex align-items-center justify-content-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">classes</div>
-                <div class="col-sm" style="position: relative;">
+                <div class="col-sm my-3" style="position: relative;">
 {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#age-1-4">
@@ -354,7 +354,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative;">
+                <div class="col-sm my-3" style="position: relative;">
 {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
                     <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#age-5-6">
@@ -363,18 +363,18 @@
                     </a>
                 </div>
 
-{{--                <div class="col-sm" style="position: relative;"></div>--}}
+{{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-{{--                <div class="col-sm" style="position: relative;"></div>--}}
-                <div class="col-sm" style="position: relative; z-index: 3;">
+{{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
+                <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#graded-specialty">
                         <div id="triangle-bottomleft"></div>
@@ -382,7 +382,7 @@
                             <br>& Teens</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#graded-specialty">
                         <div id="triangle-bottomleft"></div>
@@ -419,7 +419,7 @@
         <div class="container">
             <div class="col-sm font-staat text-white text-center" style="font-size: 100px;">classes</div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                <div class="col-sm" style="position: relative;">
+                <div class="col-sm my-3" style="position: relative;">
                     {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#age-1-4">
@@ -427,7 +427,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative;">
+                <div class="col-sm my-3" style="position: relative;">
                     {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
                     <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#age-5-6">
@@ -436,18 +436,18 @@
                     </a>
                 </div>
 
-                {{--                <div class="col-sm" style="position: relative;"></div>--}}
+                {{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                {{--                <div class="col-sm" style="position: relative;"></div>--}}
-                <div class="col-sm" style="position: relative; z-index: 3;">
+                {{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
+                <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#graded-specialty">
                         <div id="triangle-bottomleft"></div>
@@ -455,7 +455,7 @@
                             <br>& Teens</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/schedule#graded-specialty">
                         <div id="triangle-bottomleft"></div>
