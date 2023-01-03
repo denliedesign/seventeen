@@ -27,39 +27,39 @@
 
 
 .bg-red {
-    background: linear-gradient(to right, #52C5D2, #5285D1);
+    background: linear-gradient(to right, #00CBD3, #02B7BE);
 }
 .bg-red-solid {
-    background: #52C5D2;
+    background: #00CBD3;
 }
 .text-red {
-    color: #52C5D2;
+    color: #00CBD3;
 }
 .btn-danger, .btn-flip-danger:hover {
-    background: #52C5D2 !important;
+    background: #00CBD3 !important;
     border: none !important;
 }
 .btn-danger:hover, .btn-flip-danger {
-    background: #52C5D2 !important;
+    background: #00CBD3 !important;
 }
 
 .btn-logo-blue {
-    background: #5285D1 !important;
+    background: #02B7BE !important;
     color: white !important;
 }
 
 .btn-outline-danger {
-    border: 1px solid #52C5D2 !important;
-    color: #52C5D2 !important;
+    border: 1px solid #00CBD3 !important;
+    color: #00CBD3 !important;
 }
 
 .btn-outline-danger:hover {
-    background: #52C5D2 !important;
+    background: #00CBD3 !important;
     color: white !important;
 }
 
 .txt-featured {
-    border: 1px solid #52C5D2;
+    border: 1px solid #00CBD3;
     color: #008CC0;
     padding: 0 14px;
     border-radius: 5px;
@@ -192,7 +192,7 @@
     border-radius: 5px;
     padding: 5px;
     margin: 2px;
-    color: #52C5D2;
+    color: #00CBD3;
 }
 
 #review-stars ion-icon {
@@ -201,7 +201,7 @@
     border-radius: 5px;
     padding: 5px;
     margin: 2px;
-    color: #52C5D2;
+    color: #00CBD3;
 }
 
 #review-stars {
@@ -299,7 +299,7 @@ body {
 #triangle-bottomleft {
     width: 0;
     height: 0;
-    border-bottom: 200px solid #5285D1;
+    border-bottom: 200px solid #02B7BE;
     border-right: 200px solid transparent;
     position: absolute;
     bottom: 0;
@@ -310,7 +310,7 @@ body {
 #triangle-bottomleft-mobile {
     width: 0;
     height: 0;
-    border-bottom: 140px solid #5285D1;
+    border-bottom: 140px solid #02B7BE;
     border-right: 140px solid transparent;
     position: absolute;
     bottom: 0;
@@ -321,7 +321,7 @@ body {
 #triangle-bottomleft-staff {
     width: 0;
     height: 0;
-    border-bottom: 200px solid #5285D1;
+    border-bottom: 200px solid #02B7BE;
     border-right: 200px solid transparent;
     position: absolute;
     bottom: 0;
@@ -330,7 +330,7 @@ body {
 }
 
 #triangle-bottomleft:hover {
-    border-bottom: 200px solid #52C5D2;
+    border-bottom: 200px solid #00CBD3;
 }
 
 .triangle-and-text {

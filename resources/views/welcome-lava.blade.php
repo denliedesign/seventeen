@@ -102,7 +102,7 @@
     <div style="position: relative; height: 990px;" class="d-none d-lg-block">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keep</span>ing your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keep</span>ing your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -110,7 +110,7 @@
                 <div>
                     <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -122,7 +122,7 @@
     <div style="position: relative; height: 850px;" class="d-block d-lg-none">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;"><span>happy</span></a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -130,7 +130,7 @@
                 <div>
                     <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -143,7 +143,7 @@
     {{--<div style="position: relative; height: 920px;">--}}
     {{--    <div class="container" style="height: 100%;">--}}
     {{--        <div id="apple-effect-wrap" style="height: 100%;">--}}
-    {{--            <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">kee</span>ping your dancer<br>--}}
+    {{--            <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">kee</span>ping your dancer<br>--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;"><span style="color: transparent;">happy</span></a>,--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>--}}
@@ -151,7 +151,7 @@
     {{--            <div>--}}
     {{--                <img src="/images-lava/summit-main-dancer.png" alt="female contemporary dancer" class="img-fluid d-none d-lg-block" id="badge-image">--}}
     {{--            </div>--}}
-    {{--            <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #52C5D2; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>--}}
+    {{--            <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>--}}
@@ -221,45 +221,11 @@
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container mb-5">
             <div class="row">
-                <div class="col-sm text-center mt-5">
-{{--                    <img class="review-img shadow mb-4" src="/images-lava/review-lauren-darnall.jpg" alt="">--}}
-                    <div class="fw-bold" style="font-size: 1.25em;">Lauren Darnall</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">
-                        GinnyAnn is a really good dance teacher. IDK how she does it but she
-                        makes every dancer feel heard. Also she is creative and the costumes are
-                        beautiful, prices reasonable and it's a great dance studio.
-                    </div>
-                </div>
-                <div class="col-sm text-center mt-5">
-{{--                    <img class="review-img shadow mb-4" src="/images-lava/review-tina-andrews.jpg" alt="">--}}
-                    <div class="fw-bold" style="font-size: 1.25em;">Tina Andrews</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">
-                        Miss GinnyAnn is so energetic and makes the basics of dance actually
-                        fun! She is very patient and understanding yet strong and instills
-                        confidence in her students!
-                    </div>
-                </div>
-                <div class="col-sm text-center mt-5">
-{{--                    <img class="review-img shadow mb-4" src="/images-lava/review-jauqulyn-sonnier.jpg" alt="">--}}
-                    <div class="fw-bold" style="font-size: 1.25em;">Jauqulyn Sonnier</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">
-                        You know how much they care about their dancers by how patient and caring they are with each and every girl! I love how much Addelynne looks forward to ballet every week!
-                    </div>
-                </div>
-                <div class="col-sm text-center mt-5">
-{{--                    <img class="review-img shadow mb-4" src="/images-lava/review-olivia-moody.jpg" alt="">--}}
-                    <div class="fw-bold" style="font-size: 1.25em;">Olivia Moody</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">
-                        Miss GinnyAnn makes the kids feel very welcome and safe. My daughter LOVES dancing there! It's summer and she asks when it's time to go back, she's excited for this upcoming season!!!
-                    </div>
-                </div>
-                <div class="col-sm text-center mt-5">
-{{--                    <img class="review-img shadow mb-4" src="/images-lava/review-elisa-kelley.jpg" alt="">--}}
-                    <div class="fw-bold" style="font-size: 1.25em;">Elisa Kelley</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">
-                        Love, love, love everything about Studio Seventeen!
-                    </div>
-                </div>
+                <x-testimonial name="Olivia Aultman" text="Absolutely love Studio Seventeen! Truly has the most patient, hardworking staff out there. The love that they pour into my little one is something I’m forever thankful for. Teaching her hard work, dedication, & to have fun while dancing is the best thing I could ever ask for."/>
+                <x-testimonial name="Cherie Mahoney" text="My little girl always has the best time! She is learning and growing! Seeing her make new friends while learning is always a blessing! The staff is wonderful and very caring! Can't wait to see what the next year holds"/>
+                <x-testimonial name="Tayler Leggett" text="We absolutely love Studio Seventeen! The staff is patient and kind with each dancer. My daughter is learning so much more than just dance here!"/>
+                <x-testimonial name="Casey Nelson" text="Studio Seventeen makes my daughter feel like she can accomplish anything and that she is special. They treat all of the kids like family and that is what I want for my daughter!"/>
+                <x-testimonial name="Destiny Day" text="I always recommend S17 to everyone that asks. My daughter looks forward to going to dance every week. Their recitals are always so professional, and age appropriate. You won’t regret picking S17 for your dance needs!"/>
             </div>
         </div>
         <div style="height: 118px;"></div>
@@ -561,13 +527,27 @@
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
             <div class="text-center txt-crimson" style="font-size: 1.5em;">
-                Yesterday was our first day for Kidlets and Tippy Toes. I peaked through
-                the window and saw miss GinnyAnn keeping my daughters attention! She was actually following directions! It was amazing, since that doesn’t happen often in her three year old world. I am excited for the upcoming season and would recommend Studio Seventeen for children’s ballet!
+                We love our Studio Seventeen Dance family! Each teacher goes out of their way to give individual instruction and make each dancer feel special. My daughter has grown so much as a dancer in her 6 years here and has learned more than I expected her to at her age!
             </div>
             <div class="d-flex justify-content-center align-items-center">
-{{--                <img class="review-img shadow mt-4" src="/images-lava/review-amanda-smith.jpg" alt="">--}}
-                <div class="fw-bold mx-4" style="font-size: 1.25em;">Amanda Smith</div>
+                {{--                <img class="review-img shadow mt-4" src="/images-lava/review-amanda-smith.jpg" alt="">--}}
+                <div class="fw-bold mx-4" style="font-size: 1.25em;">Haily Ward</div>
             </div>
+            <div class="text-center txt-crimson mt-4" style="font-size: 1.5em;">
+                We absolutely love Studio Seventeen! My daughter has grown as a dancer and a little girl because of the time and effort the teachers pour into her! Thankful for this amazing studio!
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                {{--                <img class="review-img shadow mt-4" src="/images-lava/review-amanda-smith.jpg" alt="">--}}
+                <div class="fw-bold mx-4" style="font-size: 1.25em;">Erin Husband</div>
+            </div>
+{{--            <div class="text-center txt-crimson" style="font-size: 1.5em;">--}}
+{{--                Yesterday was our first day for Kidlets and Tippy Toes. I peaked through--}}
+{{--                the window and saw miss GinnyAnn keeping my daughters attention! She was actually following directions! It was amazing, since that doesn’t happen often in her three year old world. I am excited for the upcoming season and would recommend Studio Seventeen for children’s ballet!--}}
+{{--            </div>--}}
+{{--            <div class="d-flex justify-content-center align-items-center">--}}
+{{--                <img class="review-img shadow mt-4" src="/images-lava/review-amanda-smith.jpg" alt="">--}}
+{{--                <div class="fw-bold mx-4" style="font-size: 1.25em;">Amanda Smith</div>--}}
+{{--            </div>--}}
         </div>
         <div style="height: 67px;"></div>
         <div class="custom-shape-divider-bottom-1663854216">
@@ -584,18 +564,23 @@
                 <div class="col-sm d-flex justify-content-center align-items-center">
                     <div class="text-center">
                         <div class="fw-bold" style="font-size: 2em;">FIND JOY IN MOVING</div>
-                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>
+{{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
+                        <div class="txt-crimson" style="font-size: 1.5em;">Join our dance family today!</div>
                     </div>
                 </div>
                 <div class="col-sm d-flex justify-content-center align-items-center">
                     <form action="">
                         <div class="row g-0 align-items-center">
-                            <div class="col-auto mx-0">
-                                <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">
+                            <div class="text-center mb-4">
+                                <a href="/schedule"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
+                                <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank"><button class="btn btn-logo-blue btn-lg shadow m-3">Register</button></a>
                             </div>
-                            <div class="col-auto mx-0">
-                                <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>
-                            </div>
+{{--                            <div class="col-auto mx-0">--}}
+{{--                                <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">--}}
+{{--                            </div>--}}
+{{--                            <div class="col-auto mx-0">--}}
+{{--                                <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>--}}
+{{--                            </div>--}}
                         </div>
                     </form>
                 </div>

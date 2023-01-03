@@ -23,11 +23,9 @@
             </div>
         </div>
         <p class="font-syne" style="font-size: 22px">
-            Each year, we work hard to put on a spectacular show that features a wide range of dance styles and talent. Our dancers have the opportunity to perform solos, duets, and group numbers, and they are always eager to take the stage and show off their skills.
+            Each year, we work hard to put on a spectacular show that features a wide range of dance styles and talent. Additionally, our company dancers have the opportunity to perform solos, duets, and group numbers at The Company Showcase.
             <br><br>
-            In addition to the main recital, we also offer a variety of dance camps and workshops throughout the year, which give our dancers the opportunity to work with guest choreographers and develop their skills in a fun and supportive environment.
-            <br><br>
-            We believe that dance recitals are an important part of the dance education process, and we are committed to helping our dancers shine on stage. We hope you will join us for one of our upcoming performances and be a part of the Studio Seventeen dance family.
+            We believe that dance recitals are an important part of the dance education process, and we are committed to helping our dancers shine on stage. We hope you will join us for one of our upcoming performances and be a part of the Studio Seventeen Tribe.
         </p>
     </div>
 
