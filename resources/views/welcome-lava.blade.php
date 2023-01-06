@@ -569,7 +569,7 @@
                     </div>
                 </div>
                 <div class="col-sm d-flex justify-content-center align-items-center">
-                    <form action="">
+{{--                    <form action="">--}}
                         <div class="row g-0 align-items-center">
                             <div class="text-center mb-4">
                                 <a href="/schedule"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
@@ -582,7 +582,7 @@
 {{--                                <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>--}}
 {{--                            </div>--}}
                         </div>
-                    </form>
+{{--                    </form>--}}
                 </div>
             </div>
         </div>
