@@ -3,15 +3,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="Dance Classes | Onalaska, La Crosse, WI">
-    <meta property="og:description" content="More than just great dancing! At MDU, we offer one of the most complete dance instruction programs in the Midwest and work with students of all ages and abilities.">
-    <meta property="og:image" content="https://mistysdance.com/images/mdu-home.jpg">
-    <meta property="og:url" content="https://mistysdance.com/index.php">
+    <meta property="og:title" content="Dance Classes | Orange, TX">
+    <meta property="og:description" content="More than just great dancing! At S17, we offer one of the most complete dance instruction programs in Texas and work with students of all ages and abilities.">
+{{--    <meta property="og:image" content="https://mistysdance.com/images/mdu-home.jpg">--}}
+    <meta property="og:url" content="https://dancestudioseventeen.com">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="description" content="@yield('description', 'From your child’s first class to their graduation performance. MDU has a class for everyone!')">
+    <meta name="description" content="@yield('description', 'From your child’s first class to their graduation performance. S17 has a class for everyone!')">
     <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
 
-    <title>@yield('title', 'S17 WIP | Orange, TX')</title>
+    <title>@yield('title', 'Studio Seventeen | Orange, TX')</title>
 
     <!-- Fonts -->
     <style>
@@ -36,16 +36,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 
     <!-- other -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/favicon/site.webmanifest">
-    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#30393e">
-    <meta name="msapplication-TileColor" content="#30393e">
-    <meta name="theme-color" content="#30393e">
 
-    <meta name="google-site-verification" content="pEj8FQ1at3uraMLV77FgIB99LibvKtfCd2E3Jr8B2Hw" />
-    <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;">
 
 </head>
 <body>
