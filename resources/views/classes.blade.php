@@ -87,6 +87,7 @@
                 <x-program color="1" name="2nd/3rd Tap" description="Introduces the young dancer to the rhythm of tap." />
                 <x-program color="1" name="2nd/3rd Lyrical" description="Dancers learn the beauty of lyrical dance through beginner combinations and across the floor sequences. *Beginning or Building Ballet is a requirement for this class." />
                 <x-program color="1" name="Acro Kids 1" description="Tumble and twist with us in this beginner/intermediate acro class. *Students are required to take Ballet in addition to this class." />
+                <x-program color="1" name="Kids Hip Hop 2" description="Move and groove with us in this beginner hip hop class for kids." />
             </div>
 
             <div id="graded" class="text-center mt-5">
