@@ -595,3 +595,20 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.outline-shade-1 { border: 2px solid RGBA(93, 234, 239, 1); transition: 0.8s background ease; }
+.outline-shade-2 { border: 2px solid RGBA(0, 203, 211, 1); transition: 0.8s background ease; }
+.outline-shade-3 { border: 2px solid RGBA(2, 183, 190, 1); transition: 0.8s background ease; }
+.outline-shade-4 { border: 2px solid RGBA(101, 102, 102, 1); transition: 0.8s background ease; }
+.outline-shade-5 { border: 2px solid RGBA(45, 43, 46, 1); transition: 0.8s background ease; }
+
+.fill-shade-1 { background: RGBA(93, 234, 239, 1); transition: 0.8s background ease; }
+.fill-shade-1:hover { background: RGBA(93, 234, 239, 0.7); }
+.fill-shade-2 { background: RGBA(0, 203, 211, 1); transition: 0.8s background ease; }
+.fill-shade-2:hover { background: RGBA(0, 203, 211, 0.7); }
+.fill-shade-3 { background: RGBA(2, 183, 190, 1); transition: 0.8s background ease; }
+.fill-shade-3:hover { background: RGBA(2, 183, 190, 0.7); }
+.fill-shade-4 { background: RGBA(101, 102, 102, 1); transition: 0.8s background ease; }
+.fill-shade-4:hover { background: RGBA(101, 102, 102, 0.7); }
+.fill-shade-5 { background: RGBA(45, 43, 46, 1); transition: 0.8s background ease; }
+.fill-shade-5:hover { background: RGBA(45, 43, 46, 0.7); }

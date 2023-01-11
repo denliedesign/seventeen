@@ -9,7 +9,7 @@
                 <br>
                 <span style="font-size: 0.5em; font-weight: normal; text-shadow: 1px 2px 4px black;" class="txt-crimson">Your child will fall in love with dance with our classes for ages 1-18!</span>
                 <br>
-                <a href="/schedule"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
+                <a href="/classes"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </h2>
         </div>
         <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
@@ -315,7 +315,7 @@
                 <div class="col-sm my-3" style="position: relative;">
 {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#age-1-4">
+                    <a class="triangle-and-text" href="/classes#age-6-18">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
@@ -323,7 +323,7 @@
                 <div class="col-sm my-3" style="position: relative;">
 {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
                     <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#age-5-6">
+                    <a class="triangle-and-text" href="/classes#age-5-6">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 5-6</div>
                     </a>
@@ -335,14 +335,14 @@
 {{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#age-7-8">
+                    <a class="triangle-and-text" href="/classes#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#graded-specialty">
+                    <a class="triangle-and-text" href="/classes#graded">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Tweens
                             <br>& Teens</div>
@@ -350,7 +350,7 @@
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#graded-specialty">
+                    <a class="triangle-and-text" href="/classes#specialty">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Lyrical,
                             <br>Acro, Hip Hop</div>
@@ -388,7 +388,7 @@
                 <div class="col-sm my-3" style="position: relative;">
                     {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#age-1-4">
+                    <a class="triangle-and-text" href="/classes#age-6-18">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
@@ -396,7 +396,7 @@
                 <div class="col-sm my-3" style="position: relative;">
                     {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
                     <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#age-5-6">
+                    <a class="triangle-and-text" href="/classes#age-5-6">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 5-6</div>
                     </a>
@@ -408,14 +408,14 @@
                 {{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#age-7-8">
+                    <a class="triangle-and-text" href="/classes#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#graded-specialty">
+                    <a class="triangle-and-text" href="/classes#graded">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Tweens
                             <br>& Teens</div>
@@ -423,7 +423,7 @@
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
-                    <a class="triangle-and-text" href="/schedule#graded-specialty">
+                    <a class="triangle-and-text" href="/classes#specialty">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Lyrical,
                             <br>Acro, Hip Hop</div>
@@ -572,7 +572,7 @@
 {{--                    <form action="">--}}
                         <div class="row g-0 align-items-center">
                             <div class="text-center mb-4">
-                                <a href="/schedule"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
+                                <a href="/classes"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
                                 <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank"><button class="btn btn-logo-blue btn-lg shadow m-3">Register</button></a>
                             </div>
 {{--                            <div class="col-auto mx-0">--}}
@@ -841,7 +841,7 @@
             <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>
             <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>
             <div class="d-flex justify-content-center">
-                <a href="/schedule"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
+                <a href="/classes"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
                 <a href="mailto:info@dancestudioseventeen.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>
             </div>
         </div>

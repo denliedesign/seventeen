@@ -24,10 +24,10 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <x-instructor name="GinnyAnn Henry" title="Owner/Director" image="staff-ginnyann"/>
                 <x-instructor name="Saylor Dronett" title="Administrative Assistant" image="staff-saylor"/>
-                <x-instructor name="Nellie Miller" title="Office Staff" image="staff-temp"/>
+                <x-instructor name="Nellie Miller" title="Office Staff" image="staff-nellie"/>
                 <x-instructor name="Kaleigh Belden" title="Office Staff" image="staff-kaleigh"/>
                 <x-instructor name="Cheyenne McLarty" title="Teaching Staff" image="staff-cheyenne"/>
-                <x-instructor name="Tanya Picard" title="Teaching Staff" image="staff-temp"/>
+                <x-instructor name="Tanya Picard" title="Teaching Staff" image="staff-tanya"/>
                 <x-instructor name="Margan Ferguson" title="Teaching Staff" image="staff-margan"/>
                 <x-instructor name="Karli Choate" title="Teaching Staff" image="staff-karli"/>
 

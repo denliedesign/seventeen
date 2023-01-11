@@ -43,7 +43,7 @@
                                     <a class="text-decoration-none txt-blue" href="/aboutus" target="_blank">About Us</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/schedule">Schedule</a>
+                                    <a class="text-decoration-none txt-blue" href="/classes">Classes</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/events">Calendar of Events</a>

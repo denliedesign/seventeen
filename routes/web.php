@@ -23,11 +23,24 @@ Route::get('/', function () {
 Route::get('aboutus', function () {
     return view('aboutus');
 });
-Route::get('schedule', function () {
-    return view('schedule');
+Route::get('studio', function () {
+    return view('studio');
 });
+//Route::get('schedule', function () {
+//    return view('schedule');
+//});
 Route::get('recital', function () {
     return view('recital');
+});
+Route::get('classes', function () {
+    return view('classes');
+});
+Route::get('news', function () {
+    return view('news');
+});
+
+Route::get('/news/2023-jan', function () {
+    return view('/news/2023-jan');
 });
 
 //Route::get('/calendar', 'App\Http\Controllers\EventController@index');
@@ -36,7 +49,7 @@ Route::get('recital', function () {
 Route::resource('events', EventController::class);
 Route::patch('/events/order', 'EventController@updateOrder');
 
-Route::resource('articles', ArticleController::class);
+//Route::resource('articles', ArticleController::class);
 Route::resource('promos', PromoController::class);
 
 

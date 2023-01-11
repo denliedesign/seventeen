@@ -37,8 +37,11 @@
                 {{--                    <a class="nav-link" href="#">SUMMER</a>--}}
                 {{--                </li>--}}
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/schedule">SCHEDULE</a>
+                    <a class="nav-link" href="/classes">CLASSES</a>
                 </li>
+{{--                <li class="nav-item mx-2">--}}
+{{--                    <a class="nav-link" href="/schedule">SCHEDULE</a>--}}
+{{--                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/events">EVENTS</a>
                 </li>
@@ -49,13 +52,13 @@
                     <a class="nav-link" href="/promos">PROMOS</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/articles">NEWS</a>
+                    <a class="nav-link" href="/news">NEWS</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a href="/schedule" class="nav-link">
+                    <a href="/classes" class="nav-link">
                         <div class="btn btn-danger shadow">Find Your Class</div>
                     </a>
                 </li>
