@@ -738,22 +738,22 @@
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
-                               class="">
+                            <a href="" target="_blank"
+                               class="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
                         </div>
                     </div>
-                    <div class="col-sm my-3">
-                        <div class="next-step mx-1 shadow py-5">
-                            <p class="txt-blue">Want To Give It A Try?</p>
-                            <div>
-                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"
-                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!
-                                </button>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="col-sm my-3">--}}
+{{--                        <div class="next-step mx-1 shadow py-5">--}}
+{{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                            <div>--}}
+{{--                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"--}}
+{{--                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!--}}
+{{--                                </button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-pink">Still Have Questions?</p>
