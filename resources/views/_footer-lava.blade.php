@@ -40,7 +40,7 @@
                         <div class="col-sm">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/aboutus" target="_blank">About Us</a>
+                                    <a class="text-decoration-none txt-blue" href="/aboutus">About Us</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/classes">Classes</a>
@@ -53,10 +53,10 @@
                         <div class="col-sm">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/recital" target="_blank">Recital</a>
+                                    <a class="text-decoration-none txt-blue" href="/recital">Recital</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/promos" target="_blank">Promotions</a>
+                                    <a class="text-decoration-none txt-blue" href="/promos">Promotions</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/news">News</a>

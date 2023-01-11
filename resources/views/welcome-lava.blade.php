@@ -701,16 +701,16 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-sm">
-                        <div class="next-step mx-1 shadow py-5">
-                            <p class="txt-blue">Want To Give It A Try?</p>
-                            <div>
-                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"
-                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!
-                                </button>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="col-sm">--}}
+{{--                        <div class="next-step mx-1 shadow py-5">--}}
+{{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                            <div>--}}
+{{--                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"--}}
+{{--                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!--}}
+{{--                                </button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-pink">Still Have Questions?</p>
