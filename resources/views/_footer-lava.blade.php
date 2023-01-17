@@ -69,7 +69,7 @@
                                     <a class="text-decoration-none txt-blue" href="/studio">Studio</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023">Register</a>
+                                    <a class="text-decoration-none txt-blue" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023">My Account/Register</a>
                                 </li>
                                 @guest
                                     <li class="list-group-item px-0 border-0">

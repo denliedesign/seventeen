@@ -50,19 +50,59 @@
 
             <div id="age-6-18" class="text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 6-18 Months</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                        </li>
+                    </ul>
+                </div>
                 <x-program color="1" name="Wiggle Wednesdays" description="Designed for babies and toddlers to learn, grow, explore and practice social skills." />
             </div>
             <div id="age-18-2" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 18 Months - 2 Year Olds</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-2" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-dark outline-shade-2" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                    </li>
+                </ul>
+                </div>
                 <x-program color="2" name="Boppin' Babies" description="A creative movement dance class for 18 months - 2 year olds to develop gross motor coordination using music, props and more!" />
             </div>
             <div id="age-2" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 2 Year Olds</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-3" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-dark outline-shade-3" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                    </li>
+                </ul>
+                </div>
                 <x-program color="3" name="Twirling Tots" description="A creative movement class for 2 year olds to enhance gross motor coordination and listening skills through music, props, activities and dance." />
                 <x-program color="3" name="AcroTots" description="Tumble and twist with us in this intro to acro add-on class. Students are required to take Twirling Tots in addition to this class." />
             </div>
             <div id="age-3-4" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 3-4 Year Olds</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-4" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-dark outline-shade-4" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                        </li>
+                    </ul>
+                </div>
                 <x-program color="4" name="Tippy Toes" description="A creative movement class for 3 year olds that helps develop gross motor skills, listening skills and musicality. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="4" name="Tutus for Tots" description="A creative movement class for 4 year olds that helps develop gross motor skills, listening skills and musicality. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="4" name="AcroTots" description="Tumble and twist with us in this intro to acro add-on class. Students are required to take Tippy Toes or Tutus for Tots in addition to this class." />
@@ -71,6 +111,16 @@
             </div>
             <div id="age-5-6" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 5-6 Year Olds</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-5" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-dark outline-shade-5" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                        </li>
+                    </ul>
+                </div>
                 <x-program color="5" name="Kidlets (5)" description="Introduces the young dancer to the technique of ballet. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="5" name="Kidance (6)" description="Introduces the young dancer to the technique of ballet. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="5" name="Kids Jazz" description="Introduces the young dancer to the beginning steps of jazz technique. *Kidlets or Kidance is a requirement for this class." />
@@ -80,6 +130,14 @@
             </div>
             <div id="age-7-8" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 7-8 Year Olds</p>
+                <div class="d-flex justify-content-center"><ul class="nav pt-3 p1-2 text-center">
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                        </li>
+                    </ul></div>
                 <x-program color="1" name="Beginning Ballet" description="Introduces the young dancer to the technique of ballet. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="1" name="Beginning Jazz" description="Introduces the young dancer to the beginning steps of jazz technique. *Beginning Ballet is a requirement for this class." />
                 <x-program color="1" name="Building Ballet" description="Builds and develops beginning ballet skills.This class follows the American Ballet Theatre® National Training Curriculum." />
@@ -92,6 +150,16 @@
 
             <div id="graded" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Graded Technique (Age 9+)</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-2" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-dark outline-shade-2" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                    </li>
+                </ul>
+                </div>
                 <x-program color="2" name="Ballet 1" description="Dancers will build their ballet vocabulary and learn new skills through barre and center exercises. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="2" name="Jazz 1" description="Dancers will build on their jazz technique and be introduced to combinations and across the floor sequences." />
                 <x-program color="2" name="Tap 1" description="Dancers will build on their tap technique through new exercises and combinations." />
@@ -102,6 +170,16 @@
 
             <div id="specialty" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Specialty Classes</p>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav pt-3 p1-2 text-center">
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-3" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mx-1 rounded shadow text-dark outline-shade-3" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                    </li>
+                </ul>
+                </div>
                 <x-program color="3" name="Lyrical 1" description="Dancers learn the beauty of lyrical dance through combinations and across the floor sequences. *Ballet 1 is a requirement for this class." />
                 <x-program color="3" name="Hip Hop 1" description="Dancers build their hip hop style through center and across the floor combinations." />
                 <x-program color="3" name="Acro 1" description="Tumble and twist with us in this intermediate/advanced acro class. *Students are required to take Ballet in addition to this class." />
