@@ -57,7 +57,9 @@ Route::get('/news/2023-may', function () {
 Route::get('/news/2023-sep', function () {
     return view('/news/2023-sep');
 });
-
+Route::get('/news/2023-oct', function () {
+    return view('/news/2023-oct');
+});
 
 //Route::get('/calendar', 'App\Http\Controllers\EventController@index');
 //Route::post('/calendar', 'App\Http\Controllers\EventController@store');
