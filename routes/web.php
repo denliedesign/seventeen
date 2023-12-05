@@ -63,6 +63,9 @@ Route::get('/news/2023-oct', function () {
 Route::get('/news/2023-nov', function () {
     return view('/news/2023-nov');
 });
+Route::get('/news/2023-dec', function () {
+    return view('/news/2023-dec');
+});
 
 //Route::get('/calendar', 'App\Http\Controllers\EventController@index');
 //Route::post('/calendar', 'App\Http\Controllers\EventController@store');
