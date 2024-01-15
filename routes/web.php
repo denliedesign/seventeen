@@ -39,33 +39,10 @@ Route::get('news', function () {
     return view('news');
 });
 
-Route::get('/news/2023-jan', function () {
-    return view('/news/2023-jan');
-});
-Route::get('/news/2023-feb', function () {
-    return view('/news/2023-feb');
-});
-Route::get('/news/2023-mar', function () {
-    return view('/news/2023-mar');
-});
-Route::get('/news/2023-apr', function () {
-    return view('/news/2023-apr');
-});
-Route::get('/news/2023-may', function () {
-    return view('/news/2023-may');
-});
-Route::get('/news/2023-sep', function () {
-    return view('/news/2023-sep');
-});
-Route::get('/news/2023-oct', function () {
-    return view('/news/2023-oct');
-});
-Route::get('/news/2023-nov', function () {
-    return view('/news/2023-nov');
-});
-Route::get('/news/2023-dec', function () {
-    return view('/news/2023-dec');
-});
+Route::get('/news/{year}-{month}', function ($year, $month) {
+    return view("/news/$year-$month");
+})->name('news.year-month');
+
 
 //Route::get('/calendar', 'App\Http\Controllers\EventController@index');
 //Route::post('/calendar', 'App\Http\Controllers\EventController@store');
