@@ -12,7 +12,8 @@
 
     <div class="bg-white">
         <div class="container pb-5 pt-5">
-            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
+            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4"><x-article slug="2024-feb" date="February 2024" />
+
                 <x-article slug="2024-jan" date="January 2024"/>
                 <x-article slug="2023-dec" date="December 2023"/>
                 <x-article slug="2023-nov" date="November 2023"/>
