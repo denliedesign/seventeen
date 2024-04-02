@@ -9,7 +9,7 @@
     <meta property="og:url" content="https://dancestudioseventeen.com">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="description" content="@yield('description', 'From your child’s first class to their graduation performance. S17 has a class for everyone!')">
-    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/5kctqg5sa09fd8d1o32j7i9xpvwu1wzubt2thxu7k565blzw/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
 
     <title>@yield('title', 'Studio Seventeen | Orange, TX')</title>
 
