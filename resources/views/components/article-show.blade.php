@@ -26,6 +26,11 @@
                 <img src="/images/{{ $slug }}-2.jpg" alt="blog preview" class="img-fluid">
             </div>
             @endif
+            @if(file_exists(public_path('images/' . $slug . '-3.jpg')))
+                <div class="py-3 d-flex justify-content-center">
+                    <img src="/images/{{ $slug }}-3.jpg" alt="blog preview" class="img-fluid">
+                </div>
+            @endif
             <div class="mb-5 d-flex justify-content-end">
                 <a href="{{ url()->previous() }}">
                     <div class="btn btn-danger shadow" style="width: 175px;">Back</div>
