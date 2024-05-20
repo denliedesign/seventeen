@@ -52,9 +52,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 6-18 Months</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                        <li class="nav-item">
-                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                        </li>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                        </li>--}}
                         <li class="nav-item">
                             <a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                         </li>
@@ -66,9 +66,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 18 Months - 2 Year Olds</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                    <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-2" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                    </li>
+{{--                    <li class="nav-item">--}}
+{{--                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-2" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                    </li>--}}
                     <li class="nav-item">
                         <a class="nav-link mx-1 rounded shadow text-dark outline-shade-2" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                     </li>
@@ -80,9 +80,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 2 Year Olds</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                    <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-3" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                    </li>
+{{--                    <li class="nav-item">--}}
+{{--                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-3" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                    </li>--}}
                     <li class="nav-item">
                         <a class="nav-link mx-1 rounded shadow text-dark outline-shade-3" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                     </li>
@@ -95,9 +95,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 3-4 Year Olds</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                        <li class="nav-item">
-                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-4" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                        </li>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-4" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                        </li>--}}
                         <li class="nav-item">
                             <a class="nav-link mx-1 rounded shadow text-dark outline-shade-4" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                         </li>
@@ -113,9 +113,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 5-6 Year Olds</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                        <li class="nav-item">
-                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-5" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                        </li>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-5" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                        </li>--}}
                         <li class="nav-item">
                             <a class="nav-link mx-1 rounded shadow text-dark outline-shade-5" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                         </li>
@@ -131,9 +131,9 @@
             <div id="age-7-8" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 7-8 Year Olds</p>
                 <div class="d-flex justify-content-center"><ul class="nav pt-3 p1-2 text-center">
-                        <li class="nav-item">
-                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                        </li>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                        </li>--}}
                         <li class="nav-item">
                             <a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                         </li>
@@ -152,9 +152,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Graded Technique (Age 9+)</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                    <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-2" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                    </li>
+{{--                    <li class="nav-item">--}}
+{{--                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-2" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                    </li>--}}
                     <li class="nav-item">
                         <a class="nav-link mx-1 rounded shadow text-dark outline-shade-2" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                     </li>
@@ -172,9 +172,9 @@
                 <p class="lead mb-0" style="font-size: 2em;">Specialty Classes</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
-                    <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-3" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>
-                    </li>
+{{--                    <li class="nav-item">--}}
+{{--                        <a class="nav-link mx-1 rounded shadow text-white fill-shade-3" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
+{{--                    </li>--}}
                     <li class="nav-item">
                         <a class="nav-link mx-1 rounded shadow text-dark outline-shade-3" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
                     </li>
