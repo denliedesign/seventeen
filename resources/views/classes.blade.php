@@ -60,7 +60,7 @@
                         </li>
                     </ul>
                 </div>
-                <x-program color="1" name="Wiggle Wednesdays" description="Designed for babies and toddlers to learn, grow, explore and practice social skills." />
+                <x-program color="1" name="Busy Buddies" description="Designed for babies and toddlers to learn, grow, explore and practice social skills." />
             </div>
             <div id="age-18-2" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 18 Months - 2 Year Olds</p>
@@ -166,10 +166,12 @@
                 <x-program color="2" name="Ballet 2" description="Dancers will build their ballet vocabulary and learn new skills through barre and center exercises. This class follows the American Ballet Theatre® National Training Curriculum." />
                 <x-program color="2" name="Jazz 2" description="Dancers will build on their jazz technique and be introduced to new combinations and across the floor sequences." />
                 <x-program color="2" name="Tap 2" description="Dancers will build on their tap technique through new exercises and combinations." />
+                <x-program color="2" name="Ballet 3" description="Dancers will build their ballet vocabulary and learn new skills through barre and center exercises. This class follows the American Ballet Theatre® National Training Curriculum." />
+                <x-program color="2" name="Jazz 3" description="Dancers will build on their jazz technique and be introduced to new combinations and across the floor sequences." />
             </div>
 
             <div id="specialty" class="text-center mt-5">
-                <p class="lead mb-0" style="font-size: 2em;">Specialty Classes</p>
+                <p class="lead mb-0" styler="font-size: 2em;">Specialty Classes</p>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-3 p1-2 text-center">
 {{--                    <li class="nav-item">--}}
@@ -185,6 +187,7 @@
                 <x-program color="3" name="Acro 1" description="Tumble and twist with us in this intermediate/advanced acro class. *Students are required to take Ballet in addition to this class." />
                 <x-program color="3" name="Lyrical 2" description="Dancers learn the beauty of lyrical dance through combinations and across the floor sequences. *Ballet 2 is a requirement for this class." />
                 <x-program color="3" name="Hip Hop 2" description="Dancers build their hip hop style through center and across the floor combinations." />
+                <x-program color="3" name="Lyrical 3" description="Dancers learn the beauty of lyrical dance through combinations and across the floor sequences. *Ballet 3 is a requirement for this class." />
             </div>
 
 
