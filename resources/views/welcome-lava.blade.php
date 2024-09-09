@@ -10,7 +10,7 @@
                 <span style="font-size: 0.5em; font-weight: normal; text-shadow: 1px 2px 4px black;" class="txt-crimson">Your child will fall in love with dance with our classes for ages 1-18!</span>
                 <br>
                 <a href="/classes"><div class="shadow btn btn-lg btn-danger mx-2">Find Your Class</div></a>
-                <a href="/images/studio-info-kit.pdf"><div class="shadow btn btn-lg btn-secondary mx-2">Studio Info Kit</div></a>
+                <a href="/images/studio-info-kit.pdf" target="_blank"><div class="shadow btn btn-lg btn-secondary mx-2">Studio Info Kit</div></a>
             </h2>
         </div>
         <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
