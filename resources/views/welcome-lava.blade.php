@@ -3,14 +3,14 @@
 
     <div style="position: relative;" class="d-none d-lg-block">
         <div style="position:absolute; bottom: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
-            <h2 id="great-txt">
+            <h2 id="great-txt" class="font-staat">
                 You <span class="text-red">belong</span> here
 {{--                <ion-icon name="heart"></ion-icon>--}}
                 <br>
-                <span style="font-size: 0.5em; font-weight: normal; text-shadow: 1px 2px 4px black;" class="txt-crimson">Your child will fall in love with dance with our classes for ages 1-18!</span>
+                <span style="font-size: 0.5em; font-weight: normal; text-shadow: 1px 2px 4px black;" class="txt-crimson font-syne">Your child will fall in love with dance with our classes for ages 1-18!</span>
                 <br>
                 <a href="/classes"><div class="shadow btn btn-lg btn-danger mx-2">Find Your Class</div></a>
-                <a href="/images/studio-info-kit.pdf" target="_blank"><div class="shadow btn btn-lg btn-secondary mx-2">Studio Info Kit</div></a>
+                <a href="/images/info-kit-26.pdf" target="_blank"><div class="shadow btn btn-lg btn-secondary mx-2">Studio Info Kit</div></a>
             </h2>
         </div>
         <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
@@ -59,7 +59,7 @@
 
     <div class="bg-red py-5" id="skip" style="position: relative;">
         <div class="container">
-            <h3 class="font-staat text-white" style="font-size: 100px; line-height: 0.9em;">Dance makes GREAT kids!</h3>
+            <h3 class="font-staat text-white text-uppercase" style="font-size: 80px; line-height: 0.9em;">Dance makes GREAT kids!</h3>
             <p class="text-white font-syne" style="font-size: 22px;">
                 From your child’s first class to their graduation performance, your child will thrive! At S17 dance classes are More Than Just Great Dancing! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>

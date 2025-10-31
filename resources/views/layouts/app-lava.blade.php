@@ -20,6 +20,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nunito&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
     </style>
 
 

@@ -276,7 +276,8 @@ body {
 
 .kit-links:hover { color: #00B1A5; }
 
-.font-staat { font-family: 'Staatliches', cursive; }
+/*.font-staat { font-family: 'Staatliches', cursive; }*/
+.font-staat { font-family: 'Montserrat', sans-serif; }
 .font-syne { font-family: 'Inter', sans-serif; }
 .font-dm { font-family: 'DM Serif Display', serif; }
 
