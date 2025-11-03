@@ -55,10 +55,10 @@
                     <a class="nav-link" href="/news">NEWS</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">MY ACCOUNT</a>
+                    <a class="nav-link" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?" target="_blank">MY ACCOUNT</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank">REGISTER</a>
+                    <a class="nav-link" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank">REGISTER</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a href="/classes" class="nav-link">

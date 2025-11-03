@@ -13,7 +13,7 @@
                 <a href="/images/info-kit-26.pdf" target="_blank"><div class="shadow btn btn-lg btn-secondary mx-2">Studio Info Kit</div></a>
             </h2>
         </div>
-        <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
+        <img src="/images/welcome-fold-26.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
     </div>
 
     <div class="d-block d-lg-none">
@@ -283,13 +283,13 @@
 
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">6 Years of Serving the Orange Community</h2>
+            <h2 class="fw-bold text-center" style="font-size: 2.75em;">8 Years of Serving Orange County</h2>
             <div class="row" style="font-size: 1.5em;">
-                <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="home"></ion-icon><br>1</span><br> convenient location in the Golden Triangle</p></div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="home"></ion-icon><br>8000</span><br> sf brand new facility</p></div>
                 <div class="d-md-none"><hr></div>
-                <div class="col-sm text-center d-flex align-items-center justify-content-center"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="school"></ion-icon><br>10</span><br>Rockstar Faculty Members</p></div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="school"></ion-icon><br>11</span><br>rockstar faculty members</p></div>
                 <div class="d-md-none"><hr></div>
-                <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-left: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="calendar"></ion-icon><br>40+</span><br> classes per week to choose from</p></div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-left: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="calendar"></ion-icon><br>55+</span><br> classes per week to choose from</p></div>
             </div>
         </div>
         <div style="height: 101px;"></div>
@@ -302,9 +302,9 @@
 
     <div class="py-5">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">We Are The S17 Tribe</h2>
+            <h2 class="fw-bold text-center" style="font-size: 2.75em;">Come join the S17 Tribe</h2>
             <div class="d-flex justify-content-center">
-                <video poster="/images/tribe-poster.png" src="/images/tribe.MOV" type="video/mov" controls="true" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+                <video poster="/images/tribe-poster.png" src="/images/grand-opening.mp4" type="video/mov" controls="true" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
             </div>
         </div>
     </div>
@@ -574,7 +574,7 @@
                         <div class="row g-0 align-items-center">
                             <div class="text-center mb-4">
                                 <a href="/classes"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
-                                <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank"><button class="btn btn-logo-blue btn-lg shadow m-3">Register</button></a>
+                                <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank"><button class="btn btn-logo-blue btn-lg shadow m-3">Register</button></a>
                             </div>
 {{--                            <div class="col-auto mx-0">--}}
 {{--                                <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">--}}
@@ -696,7 +696,7 @@
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank"
+                            <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank"
                                class="">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
@@ -739,7 +739,7 @@
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2022%2F2023" target="_blank"
+                            <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank"
                                class="">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
