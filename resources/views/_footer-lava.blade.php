@@ -7,7 +7,7 @@
                     <ul class="list-group" id="footer-list">
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="navigate"></ion-icon>
-                            3735 N 16th Street, Orange, TX 77632
+                            1700 Allie Payne Road, Orange, TX 77632
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="call"></ion-icon>
