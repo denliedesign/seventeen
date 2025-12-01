@@ -103,7 +103,7 @@
     <div style="position: relative; height: 990px;" class="d-none d-lg-block">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keep</span>ing your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keep</span>ing your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -111,7 +111,7 @@
                 <div>
                     <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -123,7 +123,7 @@
     <div style="position: relative; height: 850px;" class="d-block d-lg-none">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;"><span>happy</span></a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -131,7 +131,7 @@
                 <div>
                     <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #02B7BE; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -219,7 +219,7 @@
     {{--    </div>--}}
     {{--</div>--}}
 
-    <div class="bg-red text-white py-5" style="position: relative;">
+    <div class="bg-red py-5" style="position: relative;">
         <div class="container mb-5">
             <div class="row">
                 <x-testimonial name="Olivia Aultman" text="Absolutely love Studio Seventeen! Truly has the most patient, hardworking staff out there. The love that they pour into my little one is something I’m forever thankful for. Teaching her hard work, dedication, & to have fun while dancing is the best thing I could ever ask for."/>
@@ -249,11 +249,11 @@
             <div class="row my-0 py-0 d-flex align-items-center" style="height: 100%;">
                 <div class="col-sm-8">
                     <div class="mb-4">
-                        <h2 style="font-size: 2.75em;" class="fw-bold text-center">Parents
+                        <h2 style="font-size: 2.75em;" class="fw-bold text-center font-staat">Parents
                             <ion-icon name="heart-outline"></ion-icon>
                             S17...</h2>
                     </div>
-                    <div class="d-flex justify-content-center">
+                    <div class="d-flex justify-content-center font-syne">
                         <p class="txt-crimson d-none d-lg-block" style="font-size: 1.75em;">
                             <span class="text-red"><ion-icon name="heart"></ion-icon></span> Positive Environment
                             <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Background Checked Staff
@@ -283,8 +283,8 @@
 
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">8 Years of Serving Orange County</h2>
-            <div class="row" style="font-size: 1.5em;">
+            <h2 class="fw-bold text-center font-staat" style="font-size: 2.75em;">8 Years of Serving Orange County</h2>
+            <div class="row font-syne" style="font-size: 1.5em;">
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="home"></ion-icon><br>8000</span><br> sf brand new facility</p></div>
                 <div class="d-md-none"><hr></div>
                 <div class="col-sm text-center d-flex align-items-center justify-content-center"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="school"></ion-icon><br>11</span><br>rockstar faculty members</p></div>
@@ -302,7 +302,7 @@
 
     <div class="py-5">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">Come join the S17 Tribe</h2>
+            <h2 class="fw-bold text-center font-staat" style="font-size: 2.75em;">Come join the S17 Tribe</h2>
             <div class="d-flex justify-content-center">
                 <video poster="/images/tribe-poster.png" src="/images/grand-opening.mp4" type="video/mov" controls="true" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
             </div>
@@ -313,7 +313,7 @@
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm d-flex align-items-center justify-content-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">classes</div>
-                <div class="col-sm my-3" style="position: relative;">
+                <div class="col-sm my-3 font-syne" style="position: relative;">
 {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#age-6-18">
@@ -321,7 +321,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
                 </div>
-                <div class="col-sm my-3" style="position: relative;">
+                <div class="col-sm my-3 font-syne" style="position: relative;">
 {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
                     <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#age-5-6">
@@ -330,18 +330,18 @@
                     </a>
                 </div>
 
-{{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
+{{--                <div class="col-sm my-3 font-syne" style="position: relative;"></div>--}}
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-{{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
-                <div class="col-sm my-3" style="position: relative; z-index: 3;">
+{{--                <div class="col-sm my-3 font-syne" style="position: relative;"></div>--}}
+                <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
-                <div class="col-sm my-3" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
                     <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#graded">
                         <div id="triangle-bottomleft"></div>
@@ -349,7 +349,7 @@
                             <br>& Teens</div>
                     </a>
                 </div>
-                <div class="col-sm my-3" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
                     <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#specialty">
                         <div id="triangle-bottomleft"></div>
@@ -386,7 +386,7 @@
         <div class="container">
             <div class="col-sm font-staat text-white text-center" style="font-size: 100px;">classes</div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                <div class="col-sm my-3" style="position: relative;">
+                <div class="col-sm my-3 font-syne" style="position: relative;">
                     {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
                     <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#age-6-18">
@@ -394,7 +394,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
                 </div>
-                <div class="col-sm my-3" style="position: relative;">
+                <div class="col-sm my-3 font-syne" style="position: relative;">
                     {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
                     <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#age-5-6">
@@ -403,18 +403,18 @@
                     </a>
                 </div>
 
-                {{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
+                {{--                <div class="col-sm my-3 font-syne" style="position: relative;"></div>--}}
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                {{--                <div class="col-sm my-3" style="position: relative;"></div>--}}
-                <div class="col-sm my-3" style="position: relative; z-index: 3;">
+                {{--                <div class="col-sm my-3 font-syne" style="position: relative;"></div>--}}
+                <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
                     <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
-                <div class="col-sm my-3" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
                     <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#graded">
                         <div id="triangle-bottomleft"></div>
@@ -422,7 +422,7 @@
                             <br>& Teens</div>
                     </a>
                 </div>
-                <div class="col-sm my-3" style="position: relative; z-index: 3;">
+                <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
                     <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
                     <a class="triangle-and-text" href="/classes#specialty">
                         <div id="triangle-bottomleft"></div>
@@ -497,7 +497,7 @@
 
     <div class="py-5">
         <div class="container">
-            <div class="row">
+            <div class="row font-syne">
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="d-flex justify-content-center mb-0">
@@ -526,7 +526,7 @@
     </div>
 
     <div class="bg-red text-white py-5" style="position: relative;">
-        <div class="container">
+        <div class="container font-syne">
             <div class="text-center txt-crimson" style="font-size: 1.5em;">
                 We love our Studio Seventeen Dance family! Each teacher goes out of their way to give individual instruction and make each dancer feel special. My daughter has grown so much as a dancer in her 6 years here and has learned more than I expected her to at her age!
             </div>
@@ -564,17 +564,17 @@
             <div class="row" style="width: 100%; height: 100%; z-index: 1; position: relative;">
                 <div class="col-sm d-flex justify-content-center align-items-center">
                     <div class="text-center">
-                        <div class="fw-bold" style="font-size: 2em;">FIND JOY IN MOVING</div>
+                        <div class="fw-bold font-staat" style="font-size: 2em;">FIND JOY IN MOVING</div>
 {{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
-                        <div class="txt-crimson" style="font-size: 1.5em;">Join our dance family today!</div>
+                        <div class="txt-crimson font-syne" style="font-size: 1.5em;">Join our dance family today!</div>
                     </div>
                 </div>
                 <div class="col-sm d-flex justify-content-center align-items-center">
 {{--                    <form action="">--}}
                         <div class="row g-0 align-items-center">
                             <div class="text-center mb-4">
-                                <a href="/classes"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
-                                <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank"><button class="btn btn-logo-blue btn-lg shadow m-3">Register</button></a>
+                                <a href="/classes" class="font-syne"><button class="btn btn-danger btn-lg shadow m-3">View Class Schedule</button></a>
+                                <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank" class="font-syne"><button class="btn btn-logo-blue btn-lg shadow m-3">Register</button></a>
                             </div>
 {{--                            <div class="col-auto mx-0">--}}
 {{--                                <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">--}}
@@ -638,8 +638,8 @@
 
     <div id="did-you-know" class="bg-red text-white" style="position: relative;">
         <div class="container py-5">
-            <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Did you know...</h2>
-            <div class="row">
+            <h2 class="fw-bold text-center text-white font-staat" style="font-size: 2.75em;">Did you know...</h2>
+            <div class="row font-syne">
                 <div class="col-sm-1"></div>
                 <div class="col-sm d-flex justify-content-center">
                     <div class="txt-crimson" style="font-size: 1.75em;">
@@ -655,7 +655,7 @@
                 </div>
                 <div class="col-sm-1"></div>
             </div>
-            <div class="mt-3">
+            <div class="mt-3 font-syne">
                 <p class="text-center rounded p-3" style="font-size: 1.75em; border: 4px solid #fff;">
                     <span>
                         Additionally, dance boosts confidence, coordination, and compassion for others. Dancers learn hard work, perseverance, and team work. Or as we like to say around here...Dance makes great kids!
@@ -663,7 +663,7 @@
                 </p>
             </div>
             <div>
-                <p class="text-center txt-crimson" style="font-size: 1.75em;">
+                <p class="text-center txt-crimson font-syne" style="font-size: 1.75em;">
                     We don't teach kids to make great dancers.<br>We teach dance to make great kids! - <em>Misty Lown</em>
                 </p>
             </div>
@@ -690,14 +690,14 @@
                 <div class="apple-effect-left"><span style="color: transparent;">se</span>do for your child!</div>
             </div>
 
-            <div style="z-index: 2; position: relative;" class="mt-5 pt-5" id="section-cta">
+            <div style="z-index: 2; position: relative;" class="mt-5 pt-5 font-syne" id="section-cta">
                 <div style="height: 75px;"></div>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 pt-4">
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
                             <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank"
-                               class="">
+                               class="font-syne">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
                         </div>
@@ -715,7 +715,7 @@
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-pink">Still Have Questions?</p>
-                            <a href="#footer" class="">
+                            <a href="#footer" class="font-syne">
                                 <div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div>
                             </a>
                         </div>
@@ -736,16 +736,16 @@
 
             <div>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
-                    <div class="col-sm my-3">
+                    <div class="col-sm my-3 font-syne">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
                             <a href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank"
-                               class="">
+                               class="font-syne">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
                         </div>
                     </div>
-{{--                    <div class="col-sm my-3">--}}
+{{--                    <div class="col-sm my-3 font-syne">--}}
 {{--                        <div class="next-step mx-1 shadow py-5">--}}
 {{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
 {{--                            <div>--}}
@@ -755,10 +755,10 @@
 {{--                            </div>--}}
 {{--                        </div>--}}
 {{--                    </div>--}}
-                    <div class="col-sm my-3">
+                    <div class="col-sm my-3 font-syne">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-pink">Still Have Questions?</p>
-                            <a href="#footer" class="">
+                            <a href="#footer" class="font-syne">
                                 <div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div>
                             </a>
                         </div>
@@ -770,7 +770,7 @@
 
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container my-5">
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-6">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-6 font-syne">
                 <div class="col d-flex align-items-center justify-content-center text-center px-2" id="main-review-stars">
                     <div>
                         <p style="font-size: 1.5em;" class="fw-bold mb-0">OUTSTANDING 4.9/5</p>
@@ -839,11 +839,11 @@
             <div class="d-flex justify-content-center">
                 <img src="/images/gauranteed-logo-crop.png" alt="" class="img-fluid">
             </div>
-            <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>
-            <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>
+            <h2 class="fw-bold text-center text-white font-staat" style="font-size: 2.75em;">Our Guarantee</h2>
+            <p class="text-center txt-crimson font-syne" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>
             <div class="d-flex justify-content-center">
-                <a href="/classes"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
-                <a href="mailto:info@dancestudioseventeen.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>
+                <a class="font-syne" href="/classes"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
+                <a class="font-syne" href="mailto:info@dancestudioseventeen.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>
             </div>
         </div>
     </section>

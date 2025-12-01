@@ -8,7 +8,7 @@
         <div class="container pb-5 pt-5">
 
             <div class="py-2">
-                <h2 class="text-center">Classes</h2>
+                <h2 class="text-center font-staat">Classes</h2>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-2 pb-5">
                         <li class="nav-item"><a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="#age-6-18">6-18 Months</a></li>

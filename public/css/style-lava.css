@@ -27,40 +27,51 @@
 
 
 .bg-red {
-    background: linear-gradient(to right, #00CBD3, #02B7BE);
+    background: #78d0d9;
+    /*background: linear-gradient(to right, #00CBD3, #02B7BE);*/
 }
 .bg-red-solid {
-    background: #00CBD3;
+    background: #78d0d9;
+    /*background: #00CBD3;*/
 }
 .text-red {
-    color: #00CBD3;
+    color: #b4e5e8;
+    /*color: #00CBD3;*/
 }
 .btn-danger, .btn-flip-danger:hover {
-    background: #00CBD3 !important;
+    background: #78d0d9 !important;
+    /*background: #00CBD3 !important;*/
     border: none !important;
 }
 .btn-danger:hover, .btn-flip-danger {
-    background: #00CBD3 !important;
+    background: #53c4d1 !important;
+    /*background: #00CBD3 !important;*/
 }
 
 .btn-logo-blue {
-    background: #02B7BE !important;
+    background: #78d0d9 !important;
+    /*background: #02B7BE !important;*/
     color: white !important;
 }
 
 .btn-outline-danger {
-    border: 1px solid #00CBD3 !important;
-    color: #00CBD3 !important;
+    border: 1px solid #b4e5e8 !important;
+    /*border: 1px solid #00CBD3 !important;*/
+    color: #b4e5e8 !important;
+    /*color: #00CBD3 !important;*/
 }
 
 .btn-outline-danger:hover {
-    background: #00CBD3 !important;
+    background: #b4e5e8 !important;
+    /*background: #00CBD3 !important;*/
     color: white !important;
 }
 
 .txt-featured {
-    border: 1px solid #00CBD3;
-    color: #008CC0;
+    border: 1px solid #b4e5e8;
+    /*border: 1px solid #00CBD3;*/
+    color: #b4e5e8;
+    /*color: #008CC0;*/
     padding: 0 14px;
     border-radius: 5px;
 }
@@ -192,7 +203,8 @@
     border-radius: 5px;
     padding: 5px;
     margin: 2px;
-    color: #00CBD3;
+    /*color: #00CBD3;*/
+    color: #b4e5e8;
 }
 
 #review-stars ion-icon {
@@ -201,7 +213,8 @@
     border-radius: 5px;
     padding: 5px;
     margin: 2px;
-    color: #00CBD3;
+    color: #b4e5e8;
+    /*color: #00CBD3;*/
 }
 
 #review-stars {
@@ -257,24 +270,30 @@ body {
 }
 
 .btn-teal { background: #D6F2F0; }
-.btn-teal:hover { background: #5ECCC5; }
+/*.btn-teal:hover { background: #5ECCC5; }*/
+.btn-teal:hover { background: #b4e5e8; }
 .btn-purple { background: #772E93; color: #fff }
 .btn-purple:hover { background: #5E196B; color: #fff }
 .btn-white { background: #fff; }
 .btn-white:hover { background: #d5d5d5; }
 
-.txt-light-teal { color: #D6F2F0; }
+.txt-light-teal { color: #b4e5e8; }
+/*.txt-light-teal { color: #D6F2F0; }*/
 /*.txt-teal { color: #5ECCC5; }*/
-.txt-teal { color: #008CC0; }
-.txt-dark-teal { color: #00B1A5; }
+.txt-teal { color: #b4e5e8; }
+/*.txt-teal { color: #008CC0; }*/
+.txt-dark-teal { color: #b4e5e8; }
+/*.txt-dark-teal { color: #00B1A5; }*/
 
 .txt-purple { color: #5E196B; }
 
 .bg-purple { background: #5D1968; }
-.bg-teal { background: #5ECCC5; }
+.bg-teal { background: #b4e5e8; }
+/*.bg-teal { background: #5ECCC5; }*/
 /*.bg-light-teal { background: #D6F2F0; }*/
 
-.kit-links:hover { color: #00B1A5; }
+.kit-links:hover { color: #b4e5e8; }
+/*.kit-links:hover { color: #00B1A5; }*/
 
 /*.font-staat { font-family: 'Staatliches', cursive; }*/
 .font-staat { font-family: 'Montserrat', sans-serif; }
@@ -300,7 +319,8 @@ body {
 #triangle-bottomleft {
     width: 0;
     height: 0;
-    border-bottom: 200px solid #02B7BE;
+    border-bottom: 200px solid #53c4d1;
+    /*border-bottom: 200px solid #02B7BE;*/
     border-right: 200px solid transparent;
     position: absolute;
     bottom: 0;
@@ -311,7 +331,8 @@ body {
 #triangle-bottomleft-mobile {
     width: 0;
     height: 0;
-    border-bottom: 140px solid #02B7BE;
+    border-bottom: 140px solid #53c4d1;
+    /*border-bottom: 140px solid #02B7BE;*/
     border-right: 140px solid transparent;
     position: absolute;
     bottom: 0;
@@ -322,7 +343,8 @@ body {
 #triangle-bottomleft-staff {
     width: 0;
     height: 0;
-    border-bottom: 200px solid #02B7BE;
+    border-bottom: 200px solid #53c4d1;
+    /*border-bottom: 200px solid #02B7BE;*/
     border-right: 200px solid transparent;
     position: absolute;
     bottom: 0;
@@ -331,7 +353,8 @@ body {
 }
 
 #triangle-bottomleft:hover {
-    border-bottom: 200px solid #00CBD3;
+    border-bottom: 200px solid #53c4d1;
+    /*border-bottom: 200px solid #00CBD3;*/
 }
 
 .triangle-and-text {
