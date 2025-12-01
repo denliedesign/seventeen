@@ -116,14 +116,15 @@
     right: 14%;
     top: 50%;
     transform: translateY(-50%);
-    height: 879px;
+    height: 750px;
+    /*height: 879px;*/
 }
 
 #cta-image {
     position: absolute;
-    right: 20%;
-    top: 50%;
-    transform: translateY(-50%);
+    right: 0%;
+    top: 40%;
+    transform: translateY(-50%) scaleX(-1);
     height: 562px;
     z-index: 0;
 }

@@ -103,15 +103,15 @@
     <div style="position: relative; height: 990px;" class="d-none d-lg-block">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keep</span>ing your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 5 !important; line-height: 0.9;"><span style="color: transparent;">keep</span>ing your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
                 </h3>
                 <div>
-                    <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
+                    <img src="/images/happy-healthy-safe-2026.jpg" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -123,15 +123,15 @@
     <div style="position: relative; height: 850px;" class="d-block d-lg-none">
         <div class="container" style="height: 100%;">
             <div id="apple-effect-wrap" style="height: 100%;">
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 5 !important; line-height: 0.9;"><span>keeping your dancer</span><br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;"><span>happy</span></a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
                 </h3>
                 <div>
-                    <img src="/images/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
+                    <img src="/images/happy-healthy-safe-2026.jpg" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #53c4d1; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -277,7 +277,7 @@
             </div>
         </div>
         <div>
-            <img src="/images/parents-love-s17.png" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
+            <img src="/images/parents-love-2026.jpg" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
         </div>
     </div>
 
@@ -588,7 +588,7 @@
             </div>
         </div>
         <div>
-            <img src="/images/free-trial.png" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
+            <img src="/images/free-trial-2026.png" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
 {{--            <img src="/images/free-trial.png" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">--}}
         </div>
     </div>
@@ -724,7 +724,7 @@
             </div>
         </div>
         <div>
-            <img src="/images/see-what-dance-can-do.png" alt="" class="img-fluid d-none d-lg-block" id="cta-image">
+            <img src="/images/see-what-dance-can-do-2026.png" alt="" class="img-fluid d-none d-lg-block" id="cta-image">
         </div>
     </div>
 
@@ -825,9 +825,10 @@
 
     <div class="container my-5 py-5" id="brand">
 {{--        <h2 class="text-center fw-bold" style="font-size: 2.75em;">Partners & Certifications</h2>--}}
-        <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-5">
+        <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-6">
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/partner1.png" alt="logo"></a></div></div>
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/partner3.png" alt="logo" style="filter: invert(100) grayscale(100);"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/bg-check.png" alt="logo" style="filter: invert(100) grayscale(100);"></a></div></div>
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/partner4.png" alt="logo"></a></div></div>
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/partner5.png" alt="logo"></a></div></div>
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/partner2.png" alt="logo"></a></div></div>
