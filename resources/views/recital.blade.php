@@ -7,7 +7,7 @@
     <div class="container pb-5 pt-3">
         <div class="row">
             <div class="col-sm d-flex align-items-center justify-content-center">
-                <video poster="/images/recital-24-poster.png" src="/images/recital-24.mp4" type="video/mp4" controls="true" class="shadow rounded mb-2" style="max-width: 950px; width: 100%; height: auto;"></video>
+                <video poster="/images/recital-24-poster.png" src="/images/recital-25.mp4" type="video/mp4" controls="true" class="shadow rounded mb-2" style="max-width: 950px; width: 100%; height: auto;"></video>
             </div>
             <div class="col-sm">
                 <div class="d-flex justify-content-center">
