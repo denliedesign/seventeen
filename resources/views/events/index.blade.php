@@ -12,7 +12,7 @@
     <div class="bg-white pb-5">
         <div class="container" id="calendar">
             <div class="row">
-                <div class="col-sm">
+                <div class="col-md">
                     <div>
                             <table class="font-syne table">
 {{--                                <thead>--}}
@@ -73,8 +73,8 @@
                         @endcan
                     </div>
                 </div>
-                <div class="col-sm">
-                    <img src="images/events-rain-crop.jpg" alt="" class="img-fluid">
+                <div class="col-md">
+                    <img src="images/calendar-of-events.jpg" alt="" class="img-fluid">
                 </div>
             </div>
 

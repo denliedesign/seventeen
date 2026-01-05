@@ -13,7 +13,7 @@
                 <a href="/images/info-kit-26.pdf" target="_blank"><div class="shadow btn btn-lg btn-secondary mx-2">Studio Info Kit</div></a>
             </h2>
         </div>
-        <img src="/images/welcome-fold-26.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
+        <img src="/images/header-homepage.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
     </div>
 
     <div class="d-block d-lg-none">
@@ -24,11 +24,11 @@
                 <small class="txt-crimson font-syne">Your child will fall in love with dance with our classes for ages 1-18!</small>
                 <br>
             <div class="d-flex justify-content-center">
-                <a href=""><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
+                <a href="/classes"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </div>
             </p>
         </div>
-        <img src="/images/welcome-fold-crop.jpg" alt="" class="img-fluid" style="z-index: 0;">
+        <img src="/images/header-homepage.jpg" alt="" class="img-fluid" style="z-index: 0;">
     </div>
 
     {{--<div class="bg-red py-5">--}}
@@ -315,15 +315,15 @@
                 <div class="col-sm d-flex align-items-center justify-content-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">classes</div>
                 <div class="col-sm my-3 font-syne" style="position: relative;">
 {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
-                    <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/age-1-4c.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#age-6-18">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
                 </div>
                 <div class="col-sm my-3 font-syne" style="position: relative;">
-{{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
-                    <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+{{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">--}}
+                    <img src="/images/age-5-6c.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#age-5-6">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 5-6</div>
@@ -335,14 +335,14 @@
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
 {{--                <div class="col-sm my-3 font-syne" style="position: relative;"></div>--}}
                 <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
-                    <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/age-7-8c.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
-                    <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/gradedc.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#graded">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Tweens
@@ -350,7 +350,7 @@
                     </a>
                 </div>
                 <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
-                    <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/specialtyc.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#specialty">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Lyrical,
@@ -388,15 +388,15 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm my-3 font-syne" style="position: relative;">
                     {{--                    <img src="/images/age-1-4.jpg" alt="dancer posing" class="img-fluid">--}}
-                    <img src="/images/age-1-4b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/age-1-4c.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#age-6-18">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1.5-4</div>
                     </a>
                 </div>
                 <div class="col-sm my-3 font-syne" style="position: relative;">
-                    {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">--}}
-                    <img src="/images/age-5-6b.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    {{--                    <img src="/images/age-5-6.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">--}}
+                    <img src="/images/age-5-6c.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#age-5-6">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 5-6</div>
@@ -408,14 +408,14 @@
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 {{--                <div class="col-sm my-3 font-syne" style="position: relative;"></div>--}}
                 <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
-                    <img src="/images/age-7-8.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/age-7-8c.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#age-7-8">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
-                    <img src="/images/gradedb.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/gradedc.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#graded">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Tweens
@@ -423,7 +423,7 @@
                     </a>
                 </div>
                 <div class="col-sm my-3 font-syne" style="position: relative; z-index: 3;">
-                    <img src="/images/specialty.jpg" alt="dancer posing" class="" style="height: 450px; width: auto;">
+                    <img src="/images/specialtyc.jpg" alt="dancer posing" class="" style="height: 450px; width: auto; max-width: 325px; object-fit: cover;">
                     <a class="triangle-and-text" href="/classes#specialty">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Lyrical,
