@@ -304,7 +304,7 @@
         <div class="container">
             <h2 class="fw-bold text-center font-staat" style="font-size: 2.75em;">Come join the S17 Tribe</h2>
             <div class="d-flex justify-content-center">
-                <video poster="/images/tribe-poster.png" src="/images/grand-opening.mp4" type="video/mov" controls="true" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+                <video poster="/images/17-home-poster.png" src="/images/grand-opening.mp4" type="video/mov" controls="true" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
             </div>
         </div>
     </div>
