@@ -25,14 +25,18 @@
                 <x-instructor name="GinnyAnn Henry" title="Owner/Director" image="ginnyann"/>
                 <x-instructor name="Saylor Dronett" title="Administrative Assistant & Teaching Staff" image="saylor"/>
                 <x-instructor name="Nellie Miller" title="Office Staff" image="nellie"/>
-                <x-instructor name="Kaleigh Belden" title="Office Staff" image="kaleigh"/>
-                <x-instructor name="Cheyenne McLarty" title="Teaching Staff" image="cheyenne"/>
+{{--                <x-instructor name="Kaleigh Belden" title="Office Staff" image="kaleigh"/>--}}
+                <x-instructor name="Cheyenne McLarty" title="Teaching Staff" image="cheyenne-2"/>
                 <x-instructor name="Tanya Picard" title="Teaching Staff" image="tanya"/>
                 <x-instructor name="Margan Ferguson" title="Teaching Staff" image="margan"/>
-                <x-instructor name="Karli Choate" title="Teaching Staff" image="karli"/>
+{{--                <x-instructor name="Karli Choate" title="Teaching Staff" image="karli"/>--}}
                 <x-instructor name="Emma Welch" title="Teaching Staff" image="emma"/>
-                <x-instructor name="Colbi Romero" title="Teaching Staff" image="colbi"/>
+{{--                <x-instructor name="Colbi Romero" title="Teaching Staff" image="colbi"/>--}}
                 <x-instructor name="Kimberly Scott" title="Teaching Staff" image="kimberly"/>
+                <x-instructor name="Callie Choate" title="Teaching Staff" image="callie"/>
+                <x-instructor name="Jaydyn Steverson" title="Office + Teaching Staff" image="jaydyn"/>
+                <x-instructor name="Zoee Buchanan" title="Office + Teaching Staff" image="zoee"/>
+                <x-instructor name="Sara Welch" title="Boutique Staff" image="sara"/>
 
         </div>
         <div style="height: 300px;"></div>
