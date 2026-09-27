@@ -11,7 +11,7 @@
                 <h2 class="text-center font-staat">Classes</h2>
                 <div class="d-flex justify-content-center">
                     <ul class="nav pt-2 pb-5">
-                        <li class="nav-item"><a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="#age-6-18">6-18 Months</a></li>
+{{--                        <li class="nav-item"><a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="#age-6-18">6-18 Months</a></li>--}}
                         <li class="nav-item"><a class="nav-link mx-1 rounded shadow text-dark outline-shade-2" href="#age-18-2">18 Months - 2 Year Olds</a></li>
                         <li class="nav-item"><a class="nav-link mx-1 rounded shadow text-dark outline-shade-3" href="#age-2">2 Year Olds</a></li>
                         <li class="nav-item"><a class="nav-link mx-1 rounded shadow text-dark outline-shade-4" href="#age-3-4">3-4 Year Olds</a></li>
@@ -48,20 +48,20 @@
 {{--                </div>--}}
 {{--            </div>--}}
 
-            <div id="age-6-18" class="text-center">
-                <p class="lead mb-0" style="font-size: 2em;">Programs for 6-18 Months</p>
-                <div class="d-flex justify-content-center">
-                    <ul class="nav pt-3 p1-2 text-center">
+{{--            <div id="age-6-18" class="text-center">--}}
+{{--                <p class="lead mb-0" style="font-size: 2em;">Programs for 6-18 Months</p>--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <ul class="nav pt-3 p1-2 text-center">--}}
 {{--                        <li class="nav-item">--}}
 {{--                            <a class="nav-link mx-1 rounded shadow text-white fill-shade-1" href="/images/resource-studio-info-kit.pdf" target="_blank">DOWNLOAD SCHEDULE</a>--}}
 {{--                        </li>--}}
-                        <li class="nav-item">
-                            <a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank">REGISTER</a>
-                        </li>
-                    </ul>
-                </div>
-                <x-program color="1" name="Busy Buddies" description="Designed for babies and toddlers to learn, grow, explore and practice social skills." />
-            </div>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link mx-1 rounded shadow text-dark outline-shade-1" href="https://app.thestudiodirector.com/studioseventeen/portal.sd?page=Enroll&meth=search&SEASON=Fall+2025%2F2026" target="_blank">REGISTER</a>--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                </div>--}}
+{{--                <x-program color="1" name="Busy Buddies" description="Designed for babies and toddlers to learn, grow, explore and practice social skills." />--}}
+{{--            </div>--}}
             <div id="age-18-2" class="text-center mt-5">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for 18 Months - 2 Year Olds</p>
                 <div class="d-flex justify-content-center">
